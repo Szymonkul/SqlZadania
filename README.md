@@ -1,0 +1,2 @@
+# SqlZadania
+SQL First try
